@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lukavanbro
-- 👀 I’m interested in football and coding
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning .Lua
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on discord: (FietsenDief_22#8862)
